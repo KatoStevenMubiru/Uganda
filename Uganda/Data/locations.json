@@ -1,0 +1,45 @@
+[
+  {
+    "id" : "mgahinga",
+    "name" : "Mgahinga Falls National Park",
+    "image" : "map-serengeti",
+    "latitude" : -1.364067,
+    "longitude" : 29.638327
+
+  },
+  {
+    "id" : "murchison",
+    "name" : "Murchison National Park",
+    "image" : "map-kruger",
+    "latitude" :  2.145768,
+    "longitude" : 31.806906
+  },
+  {
+    "id" : "chobe",
+    "name" : "Chobe National Park",
+    "image" : "map-chobe",
+    "latitude" : -18.7305642,
+    "longitude" : 24.4292148
+  },
+  {
+    "id" : "kidepo",
+    "name" : "Kidepo Valley National Park",
+    "image" : "map-kidepo",
+    "latitude" : 3.8495757,
+    "longitude" : 33.7525049
+  },
+  {
+    "id" : "etosha",
+    "name" : "Etosha National Park",
+    "image" : "map-etosha",
+    "latitude" : -18.8555909,
+    "longitude" : 16.327131
+  },
+  {
+    "id" : "solonga",
+    "name" : "Solonga National Park",
+    "image" : "map-solonga",
+    "latitude" : -1.9999932,
+    "longitude" : 21.0002492
+  }
+]
